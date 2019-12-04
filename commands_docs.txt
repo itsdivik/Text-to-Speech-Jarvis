@@ -1,0 +1,9 @@
+List of Inbuilt Commands :-
+
+1 - "wikipedia"
+2 - "open youtube"
+3 - "open google"
+4 - "open facebook"
+5 - "open instagram"
+6 - "open stackoverflow"
+7 - "open website" to open investoasia offical website
